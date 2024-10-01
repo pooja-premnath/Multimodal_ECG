@@ -117,7 +117,7 @@ def run_single_file(args):
     else:
         bernoulli_add_print = bernoulli(args.random_add_header)
 
-    font = os.path.join('/content/ecg-image-kit/codes/ecg-image-generator/Fonts', random.choice(os.listdir("/content/ecg-image-kit/codes/ecg-image-generator/Fonts")))
+    font = os.path.join('/content/Multimodal_ECG/ECG Image Generator/ecg-image-generator/Fonts', random.choice(os.listdir("/content/Multimodal_ECG/ECG Image Generator/ecg-image-generator/Fonts")))
 
     if args.random_bw == 0:
         if not args.random_grid_color:
