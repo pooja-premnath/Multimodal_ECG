@@ -1,0 +1,357 @@
+ecg_id,report
+1,"| Sinus rhythm with peripheral low voltage, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+2,| Sinus bradycardia present; normal ECG findings; no heart axis data available; diagnostic classification: NORM; no signs of infarction detected |
+3,"| Normal sinus rhythm, no heart axis data available; diagnostic classification: NORM; no signs of infarction detected |"
+4,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+5,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+6,"| Normal sinus rhythm, no heart axis data available. Diagnostic classification: NORM. No signs of infarction detected.|"
+7,"| Sinus rhythm with abnormal ST segment, likely inferior myocardial damage and QT prolongation. Heart axis: LAD. Diagnostic classification: NORM. No infarction detected.|"
+8,"| Sinus rhythm with abnormal QRS complex, inferior myocardial infarction detected, axis LAD, diagnostic classification: MI |"
+9,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+10,"| Normal sinus rhythm, no heart axis data available; diagnostic classification: NORM; no signs of infarction detected |"
+11,| The patient's ECG shows sinus arrhythmia with normal tracing; no heart axis data available; diagnostic classification: NORM; no signs of infarction detected. |
+12,| Sinus bradycardia present; otherwise normal ECG; no heart axis data available; diagnostic classification: NORM; no infarction detected. |
+13,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+14,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+15,"| The patient's ECG shows sinus arrhythmia with normal tracing, no heart axis data available, diagnostic classification is NORM, and there are no signs of infarction detected. |"
+16,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+17,"| Left axis deviation (ALAD), abnormal QRS(T) pattern, inferior myocardial infarction detected. |"
+18,"| The patient's ECG shows a 2:1 atrioventricular block corrected by isoptin and digitalis, with a heart rate of 265, left axis deviation (LAD), and no signs of infarction. |"
+19,"| Sinus rhythm with P-wave broadening, normal axis, no infarction detected, diagnostic classification: NORM |"
+20,| Supraventricular extrasystoles and tachycardia present; right bundle branch block; inferior myocardial infarction detected; heart axis LAD. |
+21,| Normal sinus rhythm; no heart axis data available; diagnostic classification: NORM; no infarction detected. |
+22,"| Sinus rhythm with unspecific abnormal T waves, heart axis LAD, no infarction detected, diagnostic superclass: STTC |"
+23,"| 2:1 atrioventricular block in paroxysmal atrial tachycardia, now 3:1 conduction + 1:1 novodigal axis 0.2 slower heart rate from 140 to 128, otherwise unchanged; no infarction detected |"
+24,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+25,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+26,| Sinus rhythm suspected with P-sinistrocardial left axis deviation and non-specific abnormal QT prolongation. No infarction detected; STTC diagnostic superclass; heart axis LAD. |
+27,"| Sinus rhythm present, normal ECG findings, heart axis at LAD, no infarction detected, diagnostic classification: NORM |"
+28,| Sinus rhythm suspected with left axis deviation; ST segment abnormality and QT prolongation; no infarction detected; diagnostic superclass: STTC. |
+29,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+30,| Sinus rhythm with nonspecific intraventricular block and left ventricular hypertrophy; heart axis not available; diagnostic classification: Hypertrophy; no infarction detected. |
+31,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no evidence of infarction detected |"
+32,| Normal sinus rhythm with right axis deviation and left posterior hemiblock; no signs of myocardial infarction detected. |
+33,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+34,"| The patient's ECG shows frequent premature ventricular contractions (PVCs) under 3x1 cm, 1x0.2 mm in amplitude and new 1x1/2 T-wave inversion at lead V5; a short-lived episode of sweating followed by a sudden drop to a slower heart rate before returning to a higher pulse rate of 125 bpm. |"
+35,"| Normal sinus rhythm, no heart axis data available. Diagnostic classification: NORM. No signs of infarction detected.|"
+36,"| Normal sinus rhythm, no heart axis data available. Diagnostic classification: NORM. No signs of myocardial infarction detected.|"
+37,| The patient's ECG shows sinus arrhythmia as the only abnormality; heart axis data is not available; diagnostic classification is normal (NORM); no signs of infarction are detected. |
+38,| The ECG shows sinus rhythm with difficult to determine QRS axis; no heart axis data available; diagnostic classification: NORM; no signs of infarction detected |
+39,"| Sinus rhythm linked to abnormal QRS(T) pattern; inferior myocardial damage not ruled out; QT prolongation; heart axis: LAD; diagnostic superclass: ['STTC', 'MI']; Infarction detected. |"
+40,"| Normal sinus rhythm with left axis deviation (LAD), no infarction detected. |"
+41,"| Left axis deviation (ALAD), sinus rhythm with left bundle branch block and left anterior hemiblock, no infarction detected, diagnostic classification: CD |"
+42,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no evidence of infarction detected |"
+43,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+44,"| Sinus rhythm with peripheral low voltage, no heart axis data available, normal diagnostic classification, and no signs of infarction detected |"
+45,| Sinus rhythm with incomplete right bundle branch block; otherwise normal ECG. Diagnostic classification: Congestive Cardiomyopathy (CD) and Hypertrophy (HYP). No myocardial infarction detected. |
+46,"| Normal sinus rhythm, no heart axis data available; diagnostic classification: NORM; no signs of infarction detected. |"
+47,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+48,"| Sinus rhythm with unspecific abnormal T waves, no heart axis data available, diagnostic superclass: STTC, no infarction detected |"
+49,"| Sinus rhythm with typical intraventricular conduction disturbance, heart axis RAD, no infarction detected, diagnostic classification CD. |"
+50,"| Sinus rhythm with P-wave broadening, left axis deviation (LAD), and probable inferior myocardial infarction. Diagnostic classification: MI, Infarction detected |"
+51,"| Normal sinus rhythm, normal ECG, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+52,| Sinus rhythm with incomplete right bundle branch block and moderate amplitude criteria for left ventricular hypertrophy. No infarction detected; heart axis data not available. Diagnostic superclass: [CD]. |
+53,"| Normal sinus rhythm, no heart axis data available; diagnostic classification: NORM; no signs of infarction detected |"
+54,"| Sinus rhythm with unspecific abnormal T wave, no heart axis data available, diagnostic superclass: STTC, no infarction detected |"
+55,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+56,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+57,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+58,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+59,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+60,"| Normal sinus rhythm with left axis deviation (LAD), no signs of infarction detected. |"
+61,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+62,"| Sinus rhythm with abnormal QRS complex, possible anterolateral infarction detected, no heart axis data available, diagnostic classification: NORM |"
+63,"| Abnormal sinus rhythm with QRS(t) indicating possible anterior myocardial infarction, no heart axis data available; diagnostic superclass: MI; Infarction detected. |"
+64,"| Sinus rhythm with normal ECG, heart axis LAD, no infarction detected, diagnostic classification: NORM |"
+65,| Sinus rhythm with R-S transition in V ableitung after right axis shift and incomplete right bundle branch block; otherwise normal ECG; no infarction detected. |
+66,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+67,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+68,"| Normal sinus rhythm with left axis deviation (LAD), no infarction detected. |"
+69,| Sinus bradycardia with nonspecific abnormal T waves; no heart axis data available; diagnostic classification: normal; no evidence of infarction detected |
+70,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+71,"| Normal sinus rhythm, heart axis not available, diagnostic classification: NORM, no infarction detected |"
+72,"| Sinus rhythm with abnormal QRS complexes (T wave), right axis deviation (RAD) 90°, diagnostic superclass: NORM, Infarction detected. |"
+73,"| Sinus rhythm with left axis deviation (ALAD), abnormal QRS(T) pattern suggestive of anterior-lateral myocardial infarction possible, diagnostic classification: NORM |"
+74,"| Normal sinus rhythm, no heart axis data available; diagnostic classification: NORM; no signs of infarction detected |"
+75,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no evidence of infarction detected |"
+76,"| The patient's ECG shows sinus arrhythmia, normal rhythm otherwise; heart axis is LAD; diagnostic classification is NORM; no infarction detected. |"
+77,"| The ECG shows sinus rhythm with incomplete right bundle branch block, no heart axis data available. Diagnostic impression includes coronary disease and myocardial infarction. Infarction detected.|"
+78,| The patient's ECG shows sinus bradycardia and normal tracing; no heart axis data available; diagnostic classification: NORM; no evidence of infarction detected. |
+79,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+80,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+81,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+82,"| Normal sinus rhythm, no heart axis data available; diagnostic classification: NORM; no infarction detected |"
+83,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+84,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+85,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+86,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+87,"| Sinus rhythm with incomplete right bundle branch block and probable inferior myocardial damage; heart axis not available; diagnostic superclass: 'CD', 'STTC'; no infarction detected. |"
+88,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+89,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+90,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+91,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+92,"| Normal sinus rhythm, no heart axis data available. Diagnostic classification: NORM. No signs of infarction detected.|"
+93,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+94,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no evidence of infarction detected |"
+95,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+96,| Sinus rhythm with nonspecific intraventricular conduction delay and left ventricular hypertrophy; heart axis not available; diagnostic classification: Hypertrophy; no infarction detected |
+97,| Normal sinus rhythm with LAD axis; no infarction detected. |
+98,| Sinus arrhythmia suspected due to left axis deviation; no infarction detected; diagnostic classification: NORM |
+99,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+100,"| The patient's ECG shows sinus arrhythmia as the primary rhythm, normal axis at LAD, and no signs of infarction; diagnostic classification is NORM. |"
+101,| Sinus rhythm is normal; no heart axis data available; diagnostic classification: NORM; no infarction detected |
+102,"| Sinus rhythm with 1st-degree AV block and ST depression, possibly indicative of anterolateral ischemia or left ventricular strain. Heart axis not available. No infarction detected. Diagnostic classification: CD/STTC. |"
+103,"| Sinus tachycardia with left axis deviation (ALAD), likely inferior myocardial infarction detected. |"
+104,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+105,| Sinus rhythm with abnormal QRS complexes; no heart axis data available; diagnostic classification: normal; no signs of infarction detected |
+106,"| Sinus rhythm with marked amplitude criteria for left ventricular hypertrophy, possible anterior-lateral infarct, heart axis not available. Diagnostic superclass: MI, HYP. Infarction detected. |"
+107,"| Sinus rhythm present, normal ECG findings, heart axis at LAD, no infarction detected, diagnostic classification: NORM |"
+108,| Sinus tachycardia present; normal ECG; no heart axis data available; diagnostic classification: NORM; no infarction detected |
+109,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+110,"| Normal sinus rhythm, normal ECG, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+111,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+112,"| Sinus rhythm present, normal ECG findings, heart axis LAD, diagnostic classification: NORM, no signs of infarction detected |"
+113,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+114,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+115,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+116,"| Sinus rhythm with unspecific abnormal T waves, heart axis LAD, diagnostic superclass: STTC, no infarction detected |"
+117,"| Normal sinus rhythm, normal ECG, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+118,| Supraventricular extrasystoles present; normal sinus rhythm otherwise; no heart axis data available; diagnostic classification: NORM; no infarction detected. |
+119,"| Normal sinus rhythm with left axis deviation (LAD), no infarction detected. |"
+120,"| Normal sinus rhythm, no heart axis data available. Diagnostic classification: NORM. No signs of myocardial infarction detected.|"
+121,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+122,"| Normal sinus rhythm with left axis deviation (LAD), no infarction detected. |"
+123,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+124,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+125,"| Normal sinus rhythm, no heart axis data available. Diagnostic classification: NORM. No signs of infarction detected.|"
+126,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+127,"| Sinus rhythm with unspecific abnormal T wave, no heart axis data available, diagnostic superclass: STTC, no infarction detected |"
+128,"| Ventricular extrasystoles present, intermittent ventricular extrasystoles, sinus arrhythmia, nonspecific abnormal T waves, no heart axis data available, diagnostic superclass: STTC, no myocardial infarction detected |"
+129,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+130,"| Normal sinus rhythm with left axis deviation (LAD), no infarction detected. |"
+131,| Abnormal sinus rhythm with QRS(t) abnormalities suggesting possible septal infarction; no heart axis data available; diagnostic superclass: MI; Infarction detected |
+132,"| Normal sinus rhythm, left axis deviation (LAD), no infarction detected, otherwise normal ECG. |"
+133,| Sinus rhythm with unspecified abnormality; no heart axis data available; diagnostic superclass: STTC; no infarction detected |
+134,| The ECG shows sinus rhythm with left axis deviation and no secure pathological findings; diagnostic classification: STTC; no infarction detected. |
+135,| Sinus tachycardia with T-wave changes indicative of anterolateral myocardial ischemia not present on ECG 910218; heart axis unknown; diagnostic classification: STTC; no infarction detected. |
+136,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+138,"| Normal sinus rhythm with left ventricular hypertrophy, heart axis not available, diagnostic classification: HYP, no signs of infarction detected |"
+144,"| Pacemaker ECG: Normal rhythm and axis, no infarction detected, diagnostic superclass: [] |"
+146,"| Sinus rhythm with specific SKEL block, abnormal QRS duration; inferior myocardial infarction detected, heart axis not available; diagnostic superclass: STTC, MI, HYP |"
+147,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+148,| The ECG shows sinus rhythm with a normal axis. Diagnostic classification: ST-T change. No signs of infarction detected. |
+149,"| The ECG report indicates normal sinus rhythm without any abnormalities, no heart axis data available, and no signs of infarction; diagnostic classification: NORM. |"
+150,"| Normal sinus rhythm, left axis deviation without pathological findings; diagnostic superclass: NORM; no infarction detected. |"
+151,| Sinus arrhythmia present; abnormal QRS duration; high lateral myocardial damage suspected; no infarction detected. |
+152,"| Patient's ECG report: Normal sinus rhythm with left ventricular hypertrophy, high lateral infarct, and ST-T changes consistent with inferior myocardial infarction. |"
+153,"| Abnormal QRS complex with inferior myocardial infarction possible, no heart axis data available; diagnostic classification: MI; Infarction detected |"
+154,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: normal, no signs of myocardial infarction detected |"
+155,"| The ECG shows sinus rhythm with abnormal QRS complexes (T wave inversion) suggesting possible inferior myocardial infarction, heart axis LAD, diagnostic classification: MI. |"
+156,"| Sinus rhythm with abnormal QRS duration, inferior myocardial damage suspected, axis not available; diagnostic classification: NORM; no infarction detected. |"
+157,"| The ECG shows sinus rhythm with extreme left axis deviation as a result of left inferior hemiblock, different from previous ECG 910220. No infarction detected. |"
+158,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+159,"| Normal sinus rhythm, normal heart axis, no infarction detected, diagnostic classification: NORM |"
+160,"| Sinus rhythm with left axis deviation and T-wave inversion as seen in high lateral myocardial infarction, no infarction detected, STTC diagnosis. |"
+161,"| Sinus rhythm with left axis deviation, abnormal QRS amplitudes in extremity leads, prolonged QRS interval, inferior infarct detected. Diagnostic superclass: MI |"
+162,"| The ECG shows sinus rhythm with extreme left axis deviation, non-specific ST-T changes, and a possible bundle branch block. Diagnostic possibilities include coronary disease, STEMI, myocardial infarction, and hypokalemia. Infarction is detected. |"
+163,"| Normal sinus rhythm, normal ECG, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+164,"| Sinus tachycardia with ST-segment changes anterolaterally and inferolaterally suggestive of ischemia or left ventricular hypertrophy; LVH 100, ISC, Sokolow index 2.6 (ISCAL), no infarction detected, heart axis unknown, diagnostic superclass: [STTC]. |"
+165,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+166,"| The ECG shows sinus rhythm on the left axis, otherwise normal tracing; no infarction detected; diagnostic superclass: NORM. |"
+167,| Sinus rhythm with T-wave inversion as seen in high lateral myocardial infarction; heart axis not available; diagnostic superclass: STTC; no infarction detected. |
+168,| Left axis deviation with ST depression consistent with anterolateral ischemia or left ventricular strain; heart axis not available; diagnostic classification: STTC; no infarction detected. |
+169,"| The ECG shows sinus rhythm with left axis deviation, incomplete right bundle branch block, and no evidence of infarction. |"
+170,"| Ventricular extrasystoles present, likely due to anterior ischemia or left ventricular overload; heart axis LAD; ST segment changes consistent with myocardial stress; no infarction detected. |"
+171,"| Sinus rhythm with ST-segment depression, possibly indicative of lateral ischemia or left ventricular strain; Sokolow-Lessler index 2.7 (ISCIL 100); no infarction detected |"
+172,"| The ECG shows sinus rhythm with right axis deviation and left bundle branch block pattern, no infarction detected. |"
+173,| Sinus rhythm with prolonged left axis deviation and left ventricular hypertrophy. No infarction detected; ST-T changes consistent with Hypertrophic Cardiomyopathy (HYP). |
+174,"| Normal sinus rhythm, no heart axis data available, diagnostic superclass: NORM, no infarction detected |"
+175,"| Abnormal sinus rhythm with QRS(t) prolongation, inferior myocardial infarction likely due to old infarct; diagnostic superclass: MI; Infarction detected. |"
+176,"| The patient's ECG shows sinus rhythm with supraventricular extrasystoles, otherwise normal tracing; no heart axis data available; diagnostic classification: NORM; no signs of infarction detected. |"
+177,"| Sinus rhythm with extreme left axis deviation; QRS interval abnormality consistent with anteroseptal infarction and possible recent T-wave change indicative of anterior myocardial infarction. Diagnostic superclass: ['MI'], Infarction detected. |"
+178,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+179,"| Normal sinus rhythm, no heart axis data available; diagnostic classification: NORM; no signs of infarction detected |"
+180,| The ECG shows sinus rhythm with left axis deviation and left-sided incomplete bundle branch block; no infarction detected. |
+181,"| Ventricular extrasystoles with left ventricular hypertrophy, high ventricular rate, abnormal QRS axis, anterior infarct likely recent, possible inferior infarct older, probable ST depression as seen in high lateral ischemia or left ventricle, Infarction detected, Diagnostic superclass: MI |"
+182,"| Sinus rhythm with extreme left axis deviation, unspecified bundle branch block, Wolff-Parkinson-White syndrome type B, abnormal QRS duration, anteroseptal myocardial infarction detected. Diagnostic superclass: ['CD', 'MI']. |"
+183,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+184,| Sinus rhythm with extreme left axis deviation; abnormal QRS duration; anterior and inferior infarction likely due to old myocardial infarction (MI) |
+185,| Sinus rhythm is normal. Heart axis data not available. Diagnostic classification: Normal. No signs of infarction detected.|
+186,| Sinus bradycardia present. QRS amplitude increased in extremity leads. T-wave inversion as seen in anterior myocardial infarction without heart axis data available. No ST segment changes indicative of infarction detected. |
+187,| The patient's ECG shows sinus arrhythmia with normal tracing; no heart axis data available; diagnostic classification: NORM; no evidence of infarction detected. |
+188,"| The ECG shows sinus rhythm with prolonged extremity lead axis deviation to the left, right bundle branch block, and no evidence of infarction. |"
+189,"| Abnormal ECG showing supraventricular extrasystoles, extreme left axis deviation, abnormal QRS duration, anterior and inferior myocardial infarction detected. |"
+190,| Pacemaker ECG: Normal rhythm with no heart axis data available; diagnostic superclass not applicable; no signs of infarction detected. |
+191,"| Sinus bradycardia with criteria for left ventricular hypertrophy, abnormal QRS duration indicating lateral myocardial damage; no infarction detected. Diagnostic superclass: ['CD', 'HYP']. No heart axis data available. |"
+192,"| Sinus rhythm with right-sided incomplete bundle branch block, heart axis not available, diagnostic classification: CD, no infarction detected |"
+193,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+194,"| Sinus bradycardia with indifferent type T-wave changes, negative in III, flat V4-V6; normal ECG; no infarction detected; heart axis not available; diagnostic superclass: NORM |"
+195,"| Sinus rhythm with left axis deviation (ALAD), right bundle branch block, no infarction detected, classified as Class D. |"
+196,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+197,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+198,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+199,"| Sinus rhythm with abnormal QRS complexes due to anteroseptal myocardial infarction, no heart axis data available, diagnostic possibilities include MI and Hypertension, Infarction detected. |"
+200,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+201,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+202,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+203,"| Normal sinus rhythm, no heart axis data available; diagnostic classification: NORM; no signs of infarction detected |"
+204,"| Normal sinus rhythm, no heart axis data available; diagnostic classification: NORM; no signs of infarction detected |"
+205,| Sinus rhythm with abnormal QRS complexes; septal infarct cannot be ruled out; no heart axis data available; diagnostic classification: NORM; Infarction detected. |
+206,"| Normal sinus rhythm, no heart axis data available. Diagnostic classification: NORM. No signs of myocardial infarction detected.|"
+207,| The ECG shows sinus rhythm with amplitude criteria for left ventricular hypertrophy; no heart axis data available; diagnostic superclass: NORM; no infarction detected. |
+208,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+209,"| Sinus rhythm with AV block and intraventricular conduction disturbance; ST segment elevation in V1, T wave inversion negative in V4,V5; heart axis 30-60 degrees (AXR); no infarction detected; diagnostic classification: CD, STTC |"
+210,"| Sinus rhythm with left axis deviation (ALAD), supraventricular tachycardia type, diagnostic classification: Myocardial Infarction (MI) detected, infarct present |"
+211,"| Sinus rhythm with normal ST segment and T wave abnormality, likely posterior infarct, possible chronic left ventricular hypertrophy, likely pathological LVH, heart axis MID, diagnostic superclass: MI, HYP, Infarction detected. |"
+212,"| Sinus rhythm with P-wave broadening, normal heart axis, no infarction detected, diagnostic classification: NORM |"
+213,| Ventricular extrasystoles present; sinus arrhythmia noted; no infarction detected; heart axis not available; diagnostic classification: normal. |
+214,"| The patient's ECG shows sinus rhythm with normal axis at MID, classified as NORM, and no signs of infarction detected. |"
+215,"| Sinus rhythm with normal P wave morphology and normal axis (MID), no signs of infarction detected, diagnostic classification: NORM |"
+216,"| Sinus rhythm with peripheral low voltage, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+217,"| Normal sinus rhythm with left axis deviation (MID), ST segment changes suggestive of unspecified myocardial damage and repolarization disturbances; no infarction detected. |"
+218,"| Sinus rhythm with normal axis (MID), 1st degree pathological AV block, no infarction detected. |"
+219,"| Ventricular extrasystoles present, left ventricular hypertrophy suspected, normal axis, no infarction detected, diagnostic classification: NORM |"
+220,"| Sinus rhythm with left axis deviation (ALAD), normal QRS complex, and no evidence of infarction; note: left anterior hemiblock and abnormal QRS-T interval. |"
+221,"| Normal sinus rhythm, no heart axis data available. Diagnostic classification: NORM. No signs of infarction detected.|"
+222,"| The ECG shows sinus rhythm with left axis deviation (LAD), right ventricular hypertrophy (RVH) and an incomplete right bundle branch block (IRBBB), with no signs of infarction. |"
+223,"| The ECG report indicates a sinus rhythm with possible acute or chronic anterior myocardial infarction, likely due to a ventricular aneurysm; ST-segment depression in leads V4-6 and lack of R-wave progression in leads V2-3; heart axis is MID; diagnostic possibilities include ST-elevation, MI, and Hypertrophy. |"
+224,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+225,| Sinus bradycardia present. Normal axis at MID (Midline). Poor R-wave progression in leads V1-3 with elevation in V3. T wave negative in lead V2. No infarction detected. Diagnostic classification: NORM |
+226,"| The patient's ECG shows sinus rhythm with left axis deviation (ALAD), normal tracing despite a left-sided anterior hemiblock and no signs of myocardial infarction. |"
+227,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+228,| Normal sinus rhythm with left axis deviation; no infarction detected. |
+229,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+230,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+231,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+232,"| Sinus rhythm present, normal ECG findings, heart axis at MID, diagnostic classification: Normal (NORM), no signs of infarction detected |"
+233,"| The patient's ECG shows sinus rhythm with normal PQRST complexes and axis at MID; no infarction detected, classified as NORM. |"
+234,"| Sinus rhythm with AV block, inferior myocardial infarction, anterior wall aneurysm, and pathological repolarization; heart axis: AXR; diagnostic superclass: MI, STTC; Infarction detected. |"
+235,"| Sinus bradycardia with left axis deviation (ALAD), high and pointed T wave in V2-5, no infarction detected, diagnostic classification: NORM. |"
+236,| Sinus rhythm with incomplete right bundle branch block otherwise normal ECG; no infarction detected; heart axis not available; diagnostic classification: NORM |
+237,"| Sinus rhythm present, normal sinus rhythm type, normal ECG, heart axis at MID, diagnostic classification: NORM, no signs of infarction detected |"
+238,"| The ECG shows sinus rhythm with left axis deviation (ALAD), no infarction detected, and a diagnosis of supraventricular tachycardia. |"
+239,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+240,"| Sinus bradycardia present, normal QRS complex but abnormal inferior leads indicating likely old myocardial infarction with mid-axis heart and infarction detected. |"
+241,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+242,| Supraventricular extrasystoles present; normal sinus rhythm otherwise. No infarction detected. Heart axis: no data available. Diagnostic classification: NORM. |
+243,"| Normal sinus rhythm with normal axis (MID), no infarction detected. |"
+244,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+245,"| Sinus rhythm with normal axis (MID), unspecific abnormality type T, diagnostic classification: NORM, no infarction detected |"
+246,"| Sinus rhythm present, normal ECG findings, heart axis at MID, diagnostic classification: NORM, no evidence of infarction detected. |"
+247,"| Sinus rhythm present, normal ECG pattern observed, heart axis at MID, diagnostic classification: NORM, no evidence of infarction detected |"
+248,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no myocardial infarction detected |"
+249,"| Normal sinus rhythm with normal axis (MID), unspecific abnormality type 'sinusrhythmus lagetyp', diagnostic superclass: ['NORM'], no infarction detected |"
+250,"| Sinus rhythm present, normal ECG pattern observed, heart axis at MID, diagnostic classification: NORM, no signs of infarction detected |"
+251,| The patient's ECG shows sinus arrhythmia with normal findings; heart axis data not available; diagnostic classification: NORM; no signs of infarction detected. |
+252,"| Normal sinus rhythm, no heart axis data available; diagnostic classification: NORM; no infarction detected |"
+253,"| Sinus rhythm normal, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+254,"| The patient's ECG shows sinus rhythm, normal tracing, no heart axis data available, diagnostic classification is NORM, and there are no signs of infarction detected. |"
+255,"| The ECG shows sinus rhythm with premature ventricular contractions, incomplete right bundle branch block, and no signs of infarction; heart axis not available. |"
+256,"| The ECG shows sinus rhythm with premature ventricular contractions and bigeminy, left bundle branch block likely due to ischemic heart disease, no infarction detected, heart axis not available. |"
+257,"| The ECG shows sinus rhythm with premature atrial contractions, left atrial enlargement, and signs of ischemia including QS complexes in V2, slightly elevated ST segments in V2-3, depressed ST segments in I and AVL, low or flat T waves in I, V5-6, and inverted T waves in AVL. |"
+258,| The ECG trace only shows requested information. No heart axis data is available. Diagnostic possibilities include ST-elevation myocardial infarction (STEMI) and Myocardial Infarction (MI). Infarction detected.|
+259,| The patient's ECG shows a normal sinus rhythm but indicates possible heart issues due to ST segment depression in inferolateral leads suggesting ischaemia or left ventricular strain; no infarction detected. |
+260,"| The patient's ECG shows sinus rhythm, abnormal left axis deviation (ALAD), and prolonged QT interval; no signs of infarction detected. |"
+261,"| The patient has a normal sinus rhythm but shows non-specific T wave flattening in leads V3 and V4. Prolonged QT interval is noted, which could be due to medication effect or electrolyte imbalance. No heart axis data available. Diagnostic classification: STTC. No evidence of myocardial infarction detected.|"
+262,| The patient's ECG shows a normal sinus rhythm with no heart axis data available; diagnostic classification is NORM and there are no signs of infarction detected. |
+263,"| Sinus tachycardia and left atrial enlargement are noted. Non-specific ST-T wave changes in inferolateral leads suggest ischemic heart disease; no axis data available; diagnostic superclass: [STTC, MI]; Infarction detected |"
+264,"| The patient's ECG shows sinus rhythm, normal tracing, no heart axis data available, diagnostic classification is NORM, and there is no evidence of infarction detected. |"
+265,| The patient's ECG shows sinus rhythm with non-specific T wave flattening or slight inversion in leads V2 and V3. Heart axis not available. Diagnostic classification: Normal (NORM). No signs of infarction detected.|
+266,"| The patient has a sinus rhythm with left axis deviation and left anterior fascicular block. Q waves are present in leads V2-5, ST segments are elevated in leads V3-5, T waves are inverted in leads AVL, V2-6, and flat in lead I, consistent with an old anterior myocardial infarction. |"
+267,"| The patient has a normal sinus rhythm but shows signs of an old inferior myocardial infarction due to Q waves in leads II, III, and aVF. |"
+268,| The ECG shows sinus rhythm with no definite pathology; heart axis data not available; diagnostic classification: NORM; no infarction detected |
+269,"| The patient's ECG shows sinus rhythm with premature atrial contractions, prolonged PR interval, left axis deviation (LAD), right bundle branch block, and Q waves in leads II, III, and aVF consistent with old inferior myocardial infarction. Diagnostic superclass: ['CD', 'MI']. Infarction detected. |"
+270,| The patient has sinus tachycardia and ECG findings consistent with old anteroseptal myocardial infarction. |
+271,"| The ECG shows sinus rhythm with premature atrial contractions, left atrial enlargement, and signs of ischemic heart disease including QS complexes in V2 and tiny R waves in V3. ST segments are depressed and T waves inverted in I, AVL, V5,6, consistent with old anteroseptal myocardial infarction. |"
+272,| The patient's ECG shows sinus rhythm with normal results; no heart axis data available; diagnostic classification is NORM; and there is no indication of infarction detected. |
+273,"| The patient's ECG shows sinus rhythm with left atrial enlargement and high voltages suggesting LVH. ST segments are depressed and T waves inverted in leads I, AVL, V4-6, possibly due to LV strain or ischemia; no infarction detected, heart axis not available, diagnostic superclass: [STTC, HYP]. |"
+274,"| The patient has a sinus rhythm with possible left atrial enlargement and high voltages suggesting left ventricular hypertrophy. Qs complexes are seen in V2 indicating old anteroseptal myocardial infarction. ST segments are depressed in I, AVL, V5-6, and T waves are inverted in I, AVL, V3-6. The heart axis is LAD. Infarction detected. Diagnostic superclass includes STTC, MI, HYP. |"
+275,| Sinus rhythm. Normal ECG. No heart axis data available. Diagnostic classification: NORM. No infarction detected.|
+276,"| The patient's ECG shows a normal sinus rhythm with minor non-specific T wave flattening in limb leads and V5,6; no heart axis data available; diagnostic superclass: STTC; no infarction detected. |"
+277,"| The patient's ECG shows a normal sinus rhythm, possible left ventricular hypertrophy indicated by chest lead voltages, otherwise unremarkable; heart axis data unavailable; diagnostic classification: Normal; no signs of infarction detected |"
+278,| Sinus rhythm. Normal ECG. No heart axis data available. Diagnostic classification: NORM. No infarction detected. |
+279,"| The patient's ECG shows sinus tachycardia, left axis deviation (LAD), and a left bundle branch block, which is most commonly due to ischemic heart disease; no infarction detected. |"
+280,| The patient's ECG shows sinus rhythm and normal readings; no heart axis data available; diagnostic classification is NORM; no signs of infarction detected. |
+281,| The ECG trace only shows requested information. No heart axis data is available. Diagnostic possibilities include Cardiac Dysrhythmia and Myocardial Infarction. Infarction detected. |
+282,"| The ECG shows premature ventricular contractions, atrial fibrillation, left axis deviation (LAD), and left bundle branch block, which is most commonly due to ischemic heart disease; diagnostic superclass includes coronary disease, ST-T wave changes, myocardial infarction, and hypokalemia; infarction detected. |"
+283,| The patient's ECG shows sinus arrhythmia and is otherwise normal; no heart axis data available; diagnostic classification: NORM; no evidence of infarction detected |
+284,"| Sinus bradycardia with sinus arrhythmia; LVH suspected; ST depression in I, II, AVL, V4-6 possibly due to LV strain or ischemia; prolonged QT interval; no infarction detected |"
+285,| The patient's ECG shows sinus rhythm with left axis deviation and left anterior fascicular block; no signs of infarction detected. |
+286,"| The patient has a sinus rhythm with left axis deviation and a left bundle branch block, which is most commonly due to ischemic heart disease. No infarction was detected. |"
+287,| The patient's ECG shows sinus rhythm with premature ventricular contractions and a right bundle branch block; no heart axis data available; diagnostic superclass includes coronary disease and myocardial infarction; Infarction detected. |
+288,"| The patient's ECG shows a normal sinus rhythm with minor non-specific T wave flattening in leads I, AVL, V5, and V6, which is of doubtful significance. Heart axis: no data available. Diagnostic classification: Normal (NORM). No signs of infarction detected.|"
+289,| The ECG shows sinus bradycardia with high voltages in chest leads suggesting left ventricular hypertrophy. No heart axis data is available. Diagnostic classification: Normal. No signs of infarction detected.|
+290,| The patient has a sinus rhythm with possible signs of an old inferior myocardial infarction; no heart axis data available; diagnostic superclass indicates MI; Infarction detected. |
+291,| The patient has a normal sinus rhythm with an incomplete right bundle branch block which is likely a normal variant for their age. High voltages are present in lead V but no infarction was detected and heart axis data is not available. Diagnostic classification: Normal (NORM). |
+292,| The ECG trace only shows normal sinus rhythm; no heart axis data available; diagnostic classification: NORM; no signs of infarction detected. |
+293,| The patient has a normal sinus rhythm with no heart axis data available. Diagnostic classification: NORM. No signs of infarction detected. |
+294,| The ECG trace only shows requested information. No heart axis data is available. Diagnostic possibilities include ST-elevation myocardial infarction (STEMI) and Myocardial Infarction (MI). Infarction detected.|
+295,"| The patient has a normal sinus rhythm with minor non-specific changes in the ST segment of leads I and AVL, no heart axis data available, classified under STTC, and no signs of infarction detected. |"
+296,"| The patient's ECG shows sinus rhythm with left ventricular hypertrophy and widespread ST segment depression and T wave inversion, possibly due to LV strain or ischemia. Heart axis not available. Diagnostic findings: STTC and HYP. No infarction detected. |"
+297,| The ECG shows sinus rhythm with premature ventricular contractions and a rightward axis; no infarction detected; diagnostic classification: NORM. |
+298,"| The patient has a sinus rhythm with left atrial enlargement and high voltages suggesting LVH. ST segments are depressed in leads I, II, III, AVL, AVF, V5,6 with inverted T waves possibly due to LV strain or ischemia; elevated ST segment in lead I; diagnostic superclass includes ST-T changes, myocardial infarction, and hypertrophy; Infarction detected |"
+299,"| The patient has a sinus rhythm with left ventricular hypertrophy and possible left atrial enlargement. There is widespread ST segment depression and T wave inversion, which may be due to left ventricular strain or ischemia. Heart axis not available. Diagnostic findings include LVH and possible LAE. No infarction detected. |"
+300,"| The patient's ECG shows a normal sinus rhythm with non-specific T wave flattening in leads V2-6, no heart axis data available, classified as normal (NORM), and no signs of infarction detected. |"
+301,"| The patient's ECG shows sinus rhythm, normal tracing, no heart axis data available, diagnostic classification is NORM, and there is no evidence of infarction detected. |"
+302,| The patient's ECG shows sinus rhythm and is normal; no heart axis data available; diagnostic classification: NORM; no infarction detected. |
+303,| The patient's ECG shows sinus rhythm and is normal; no heart axis data available; diagnostic classification: NORM; no infarction detected. |
+304,"| The ECG shows sinus rhythm, normal tracing, no heart axis data available, diagnostic classification: NORM, and no signs of infarction detected. |"
+305,"| The ECG shows sinus arrhythmia and non-specific T wave flattening in leads V4, 5, 6; myocardial ischemia cannot be excluded. Heart axis not available. Diagnostic classification: CD/STTC. No infarction detected.|"
+306,"| The ECG shows sinus rhythm, no definite pathology, no heart axis data available, diagnostic superclass indicates ST-T wave changes, and there is no evidence of infarction detected. |"
+307,"| Atrial fibrillation present. Ischaemic heart disease with old anteroseptal myocardial infarction and ST segment depression in leads I, II, AVL, V5,6; inverted T waves in leads I, AVL, V5,6 |"
+308,"| Patient's ECG shows sinus rhythm with borderline left axis deviation; q wave and ST segment elevation in V2 suggesting anteroseptal myocardial damage; ST segments depressed in I, AVL, V5,6 with low or flat T waves possibly due to LV strain or ischemia. Infarction detected, diagnostic superclass: MI |"
+309,| The ECG trace was only requested; no heart axis data is available; diagnostic classification: normal; no infarction detected. |
+310,| Sinus rhythm with right bundle branch block and signs of old myocardial infarctions (anterior and possible inferior) |
+311,| Trace only requested. No heart axis data available. Diagnostic superclass: ['MI']. Infarction detected.|
+312,| The patient's ECG shows sinus rhythm with normal findings; heart axis data is not available; diagnostic classification is NORM; no signs of infarction detected. |
+313,"| The patient's ECG shows a sinus rhythm with high voltages suggesting left ventricular hypertrophy (LVH), depressed ST segments in leads II, III, AVF, V4-6 possibly due to LV strain or ischemia. Heart axis: no data available. Diagnostic superclass: HYP. No infarction detected. |"
+314,"| The patient's ECG shows sinus rhythm and normal results, no heart axis data available, diagnostic classification is NORM, and there is no evidence of infarction. |"
+315,"| Sinus rhythm, normal ECG. Edit: NORM 100, poor quality V2,V3,V5. Heart axis not available. Diagnostic classification: NORM. No infarction detected.|"
+316,"| The ECG shows premature atrial contractions and sinus arrhythmia; high voltages suggest left ventricular hypertrophy (LVH); ST segment depressions in leads II, III, AVF, V4-6 may be due to LV strain or ischemia; prolonged QT interval could be caused by medication or electrolyte imbalance. No infarction detected. Heart axis not available. Diagnostic findings: ST-T changes and Hypertrophy. |"
+317,| The patient has a normal sinus rhythm with no heart axis data available; diagnostic classification is NORM; no signs of infarction detected. |
+318,"| Atrial fibrillation present. ST segment depression observed in leads II, III, aVF, V4-V6; consistent with myocardial ischemia and digitalis effect, no infarction detected |"
+319,"| The patient's ECG shows sinus rhythm with possible left atrial enlargement, indicating an old anteroseptal myocardial infarction and non-specific T wave flattening in lead V6. Heart axis: unknown. Diagnostic superclass: MI. Infarction detected.|"
+320,"| The patient's ECG shows a sinus rhythm that is not significantly different from their tracing of 12:9:91. Heart axis data is unavailable. Diagnostic superclass indicates STTC, and no infarction was detected.|"
+321,| Atrial fibrillation present with rapid ventricular response; low limb lead voltage; minor non-specific ST-T wave changes; prolonged QT interval possibly due to medication or electrolyte imbalance; coarse fibrillation waves consistent with mitral valve disease; no evidence of infarction; heart axis not available. |
+322,| The patient's ECG shows sinus arrhythmia and is otherwise normal; no heart axis data available; diagnostic classification: NORM; no infarction detected. |
+323,"| The patient has a sinus rhythm with q waves in leads II, III, and aVF indicating an old inferior myocardial infarction. |"
+324,"| Sinus rhythm, normal ECG, no evidence of pericarditis, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+325,| The patient's ECG shows sinus rhythm with left ventricular hypertrophy and signs of ischemic heart disease consistent with old inferior myocardial infarction. |
+326,| The patient's ECG shows a normal sinus rhythm with minor nonspecific anterior ST segment changes and no evidence of infarction. |
+327,| The patient's ECG shows sinus rhythm and normal results; no heart axis data available; diagnostic classification is NORM; no signs of infarction detected. |
+328,| The ECG shows sinus arrhythmia without any signs of pathology; heart axis data is not available; diagnostic classification falls under STTC; no evidence of infarction detected |
+329,"| The ECG shows sinus rhythm, minor non-specific T wave flattening in limb leads and V5,6; no heart axis data available; diagnostic superclass: STTC; no infarction detected |"
+330,| Atrial fibrillation present; no definite pathology; heart axis not available; diagnostic classification: normal; no infarction detected |
+331,"| The patient's ECG shows sinus rhythm with left axis deviation (LAD) and a left anterior fascicular block, indicating no infarction detected but lead V5 is affected by artifact. |"
+332,| The patient's ECG shows sinus rhythm with no signs of abnormality; heart axis data is not available; diagnostic classification is normal; and there is no evidence of myocardial infarction. |
+333,| Sinus rhythm with left ventricular hypertrophy (LVH) and non-specific ST segment depression; heart axis not available; diagnostic superclass: HYP; no infarction detected |
+334,"| The patient's ECG shows sinus rhythm with no signs of abnormality, normal heart axis, and no evidence of infarction; diagnostic classification: NORM. |"
+335,| The patient's ECG shows sinus rhythm and normal results; no heart axis data available; diagnostic classification: NORM; no infarction detected |
+336,"| The patient's ECG shows premature ventricular contractions, a rapid and regular supraventricular tachycardia, likely atrial flutter with 2:1 AV block, left ventricular hypertrophy, non-specific ST-T wave changes, no heart axis data available, and no signs of infarction. |"
+337,"| Atrial fibrillation present. ST segments depressed in leads I, V5, and V6; T waves low or flat in leads I, V5, and V6, inverted in AVL. Possible indication of left ventricular strain or ischemia. Heart axis not available. Diagnostic superclass: [STTC, MI]. Infarction detected.|"
+338,"| The ECG shows sinus rhythm with left bundle branch block, which is most commonly due to ischemic heart disease. No infarction detected; no heart axis data available. |"
+339,| The patient's ECG shows sinus rhythm with normal findings; no heart axis data available; diagnostic classification is NORM; no signs of infarction detected. |
+340,| Sinus rhythm with left-axis deviation; no evidence of infarction detected. Diagnostic classification: NORM |
+341,"| The patient's ECG shows a normal sinus rhythm but with depressed ST segments in leads I, V4, 5, and 6, which may indicate left ventricular strain or ischemia. Heart axis not available. No infarction detected; diagnostic classification: STTC. |"
+342,| The patient's ECG shows sinus rhythm with normal findings; no heart axis data available; diagnostic classification is NORM; and there is no evidence of infarction detected. |
+343,"| The patient's ECG shows sinus rhythm, normal tracing, no heart axis data available, diagnostic classification is NORM, and there are no signs of infarction detected. |"
+344,"| The patient's ECG shows a normal sinus rhythm with minor non-specific T wave flattening in leads I, AVL, V2, and V3. Heart axis not available. No ST-T changes indicative of infarction detected. |"
+345,| The patient's ECG shows sinus rhythm and normal results; heart axis data is not available; diagnostic classification is NORM; no signs of infarction detected. |
+346,"| The ECG shows sinus rhythm with left axis deviation and a left bundle branch block, which is most commonly due to ischemic heart disease. No infarction detected, classified as LAD (Left Axis Deviation). |"
+347,"| The patient's ECG shows sinus rhythm with prolonged PR interval and left atrial enlargement. Compared to a previous tracing from 23:9:91, there was a change in rhythm from atrial flutter to sinus rhythm, with non-specific ST-T wave changes but no signs of infarction."
+348,"| The patient has a normal sinus rhythm, borderline left axis deviation (AXL), low limb lead voltage, and no signs of infarction detected. |"
+349,"| The ECG shows sinus rhythm with premature ventricular contractions, non-specific intraventricular block, left ventricular hypertrophy, and ST segment depression in leads II, III, aVF, V5,6. T waves are flat or slightly inverted in limb leads and V5,6, possibly due to left ventricular strain; no infarction detected. |"
+350,"| The ECG shows sinus arrhythmia, left axis deviation (LAD), and no signs of infarction; diagnostic classification: CD. |"
+351,| Atrial fibrillation with rapid ventricular response and non-specific ST-T wave changes; no heart axis data available; diagnostic classification: STTC; no evidence of infarction detected |
+352,"| Sinus rhythm with left axis deviation, no infarction detected, diagnostic classification: NORM |"
+353,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+354,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+355,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of myocardial infarction detected |"
+356,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+357,| Supraventricular extrasystoles present; sinus rhythm with peripheral low voltage and nonspecific abnormal T waves; no heart axis data available; diagnostic superclass: STTC; no signs of infarction detected |
+358,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+359,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no infarction detected |"
+360,"| Normal sinus rhythm with left axis deviation (LAD), no infarction detected. |"
+361,"| Normal sinus rhythm, no heart axis data available, diagnostic classification: NORM, no signs of infarction detected |"
+362,| The ECG shows sinus arrhythmia and right bundle branch block; heart axis not available; diagnostic classification is normal (NORM); no evidence of infarction detected. |
+363,"| Ventricular extrasystoles and bigeminy present; no infarction detected, STTC abnormalities; heart axis not available. |"
