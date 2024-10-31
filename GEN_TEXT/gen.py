@@ -85,6 +85,7 @@ for index, row in df.iterrows():
         prompt=generate_prompt(row)
         # print(prompt)
         report = generate_report(row)
+        print(report)
         # print(report)
         new_row = pd.DataFrame({'ecg_id': [ecg_id], 'report': [report]})
         
